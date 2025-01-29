@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 
-app.get("/api/info", (req, res) => {
+app.get("/", (req, res) => {
     res.status(200).json({
         email: "alexanderakinlami4@gmail.com",
         current_datetime: new Date().toISOString(),
@@ -15,9 +15,6 @@ app.get("/api/info", (req, res) => {
     });
 });
 
-app.get("/", (req, res) => {
-    res.send("Information on API endpoint (/api/info)");
-});
 
 
 app.listen(PORT, () => {
