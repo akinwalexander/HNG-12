@@ -29,3 +29,11 @@ The API is deployed and publicly accessible.
   "current_datetime": "2025-01-29T12:34:56.789Z",
   "github_repo": "https://github.com/your-github-repo"
 }
+## **Backlinks to **
+
+- **[Hire Python Developers](https://hng.tech/hire/python-developers)**  
+- **[Hire C# Developers](https://hng.tech/hire/csharp-developers)**  
+- **[Hire Golang Developers](https://hng.tech/hire/golang-developers)**  
+- **[Hire PHP Developers](https://hng.tech/hire/php-developers)**  
+- **[Hire Java Developers](https://hng.tech/hire/java-developers)**  
+- **[Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)**  
